@@ -1,4 +1,4 @@
 SpellCorrect
 ============
 
-Spelling Corrector
+Grammar Checker
